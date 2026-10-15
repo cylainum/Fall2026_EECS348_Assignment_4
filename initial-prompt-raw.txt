@@ -1,3 +1,5 @@
+In C++, generate a program that achieves the goal set by the following assignment instructions:
+
 • Sudoku is a number puzzle in which a 9x9 grid is subdivided into 9 3x3 sub-
 grids, or blocks.
 • A typical puzzle is shown here (image credit: Wikimedia Commons):
